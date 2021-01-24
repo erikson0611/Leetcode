@@ -1,2 +1,2 @@
 # Leetcode
-leetcode practice
+leetcode practice by using python
